@@ -34,6 +34,9 @@
   </body>
 </html>
 
+
+#CSS code
+
 body,
 h1,
 h2,
@@ -43,9 +46,6 @@ li {
   margin: 0;
   padding: 0;
 }
-
-#CSS code
-
 body {
   font-family: Arial, sans-serif;
 }
